@@ -1,4 +1,1 @@
-# Desafio BrasilPrev QA.
-
-to run:
-  cucumber
+# Automação de Testes com Java + Selenium + Cucumber
